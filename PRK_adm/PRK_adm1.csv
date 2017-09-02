@@ -1,0 +1,15 @@
+PID,ID_0,ISO,NAME_0,ID_1,NAME_1,NL_NAME_1,VARNAME_1,TYPE_1,ENGTYPE_1,,,,,,"Matching with Table 18 of 2008 Census (number starts with Ryanggang, excluding DPRK total)",,
+2157,166,PRK,North Korea,1,Chagang-do,"	<U+C790><U+AC15><U+B3C4>",Changang|Jagang,Do,Province,,,,,,Jagang,,5
+2158,166,PRK,North Korea,2,Hamgyong-bukto,<U+D568><U+ACBD><U+BD81><U+B3C4>,North Hamgyong|Kankyo Hoku-do,Do,Province,,,,,,North Hamgyong,,2
+2159,166,PRK,North Korea,3,Hamgyong-namdo,<U+D568><U+ACBD><U+B0A8><U+B3C4>,South Hamgyong|Kankyo Nan-do,Do,Province,,,,,,South Hamgyong,,3
+2160,166,PRK,North Korea,4,Hwanghae-bukto,<U+D669><U+D574><U+BD81><U+B3C4>,North Hwanghae|North Hwanghai,Do,Province,,,,,,North Hwanghae,,8
+2161,166,PRK,North Korea,5,Hwanghae-namdo,"	<U+D669><U+D574><U+B0A8><U+B3C4>",South Hwanghae|South Hwanghai,Do,Province,,,,,,South Hwanghae,,9
+2162,166,PRK,North Korea,6,Kaesong,<U+AC1C><U+C131><U+ACF5><U+C5C5><U+C9C0><U+AD6C>,Kaesong|Kaesong-chigu|Kaesong Kong-op Chigu|Kaesong Industrial Region,T'ukbyol Haengjeonggu,Special Administrative Region,,,,,,,,
+2163,166,PRK,North Korea,7,Kangwon-do,"	<U+AC15><U+C6D0><U+B3C4>",Kangwon|Kogen-do|North Kangwon,Do,Province,,,,,,Kangwon,,4
+2164,166,PRK,North Korea,8,Kumgangsan,"	<U+AE08><U+AC15><U+C0B0> <U+AD00><U+AD11> <U+C9C0><U+AD6C>",,T'ukbyol Haengjeonggu,Special Administrative Region,,,,,,,,
+2165,166,PRK,North Korea,9,P'yongan-bukto,"	<U+D3C9><U+C548><U+BD81><U+B3C4>",North Pyongan|Heian Hoku-do,Do,Province,,,,,,North Phyongan,,6
+2166,166,PRK,North Korea,10,P'yongan-namdo,<U+D3C9><U+C548><U+B0A8><U+B3C4>,South Pyongan|Heian Nan-do,Do,Province,,,,,,South Phyongan,,7
+2167,166,PRK,North Korea,11,P'yongyang,"	<U+D3C9><U+C591><U+C9C1><U+D560><U+C2DC>",Pyongyang|Pjöngjang|P'yongyang-tukpyolsi,Si,Special City,,,,,,Pyongyang City,,10
+2168,166,PRK,North Korea,12,Rason,"	<U+B77C><U+C120> <U+C9C1><U+D560><U+C2DC>",Rajin-Sonbong,Teukbyeolsi,Directly Governed City,,,,,,,,
+2169,166,PRK,North Korea,13,Ryanggang,"	<U+B7C9><U+AC15><U+B3C4>",Yanggang|Ryanggang-do,Do,Province,,,,,,Ryanggang,,1
+2170,166,PRK,North Korea,14,Sinuiju,"	<U+C2E0><U+C758><U+C8FC> <U+D2B9><U+BCC4> <U+D589><U+C815><U+AD6C>",,T'ukbyol Haengjeonggu,Special Administrative Region,,,,,,,,
