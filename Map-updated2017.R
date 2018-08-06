@@ -3,6 +3,7 @@ library(ggplot2) # for barplot
 library(stringr) # for str_wrap function
 
 # Data source: Table 18, DPRK Census 2008
+# Map boundary: from GADM.org
 
 # Use ggplot to create map
 ######################
